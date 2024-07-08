@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/Problem1.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Problem2.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Problem3.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/Problem4.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/symbol/CharSet.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/symbol/DriverType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/symbol/Edge.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/symbol/Graph.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/symbol/LexemeCategory.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/symbol/OperandType.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/symbol/RegularExpression.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/symbol/State.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/symbol/StateType.java" charset="GBK" />
+  </component>
+</project>
