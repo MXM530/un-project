@@ -1,0 +1,6 @@
+make
+insmod workqueue_test.ko times=5
+lsmod |grep workqueue_test
+rmmod workqueue_test
+dmesg | tail -n12
+make clean
